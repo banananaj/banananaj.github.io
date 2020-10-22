@@ -1,7 +1,7 @@
 ---
 title: 포레스트 검프(1994)
 author: B612MIRACLE
-date: 2020-10-10 02:00:00 +0800
+date: 2020-10-10 02:00:00 +0900
 categories: [Movie]
 tags: 포레스트검프
 ---

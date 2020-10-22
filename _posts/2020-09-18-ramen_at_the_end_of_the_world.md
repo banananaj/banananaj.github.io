@@ -1,7 +1,7 @@
 ---
 title: 세상끝의 라멘
 author: B612MIRACLE
-date: 2020-09-18 18:00:00 +0800
+date: 2020-09-18 18:00:00 +0900
 categories: [Food]
 tags: 라멘,합정
 ---

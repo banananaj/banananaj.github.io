@@ -1,7 +1,7 @@
 ---
 title: 러브레터(1995)
 author: B612MIRACLE
-date: 2020-09-22 00:35:00 +0800
+date: 2020-09-22 00:35:00 +0900
 categories: [Movie]
 tags: 러브레터
 ---
